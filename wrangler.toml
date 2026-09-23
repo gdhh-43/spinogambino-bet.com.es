@@ -1,0 +1,11 @@
+name = "spinogambino-bet-com-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambino-bet.com.es"
+HMAC_KEY = "61d5b8f2d2a87ba38ee49fbd68c0efa579d625265679a4fb7645b3d2402a55ba"
+COOKIE_NAME = "5em"
+PLAY_PATH = "join-now"
+BUTTON_ID = "pb222497ac858808ad37da77eeac2f915"
+GATE_SALT = "8336c2a4e8fc878f"
